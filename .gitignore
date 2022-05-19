@@ -1,4 +1,5 @@
 /.vscode
 __pycache__/
 AdversarialAttack/lenet_mnist_model.pth
+AdversarialAttack/imagenet_classes.txt
 AdversarialAttack/MNIST
